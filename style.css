@@ -1,0 +1,137 @@
+html{
+    scroll-behavior: smooth;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(79, 17, 138);
+    height: 100%;
+    margin: 0%;
+    padding: 20%;
+    font-size: 80px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+nav ul{
+    background-color: rgb(8, 8, 146);
+    color: white;
+    text-align: center;
+    padding: 1.5%;
+    margin: 10px;
+    border-radius: 10px;
+}
+nav ul li{
+    display: inline;
+    margin: 50px;
+    font-size: 25px;
+}
+form h2{
+    font-size: 50px;
+    color: darkred;
+    text-align: left;
+    position: relative;
+    bottom: -80px;
+}
+form{
+    border: 5px solid black;
+    margin: auto 350px;
+    text-align: right;
+    padding: 10px;
+    font-size: 20px;
+    position: relative;
+    width: 765.4px;
+    height: 375px;
+
+}
+.form{
+    position: relative;
+    top: -120px;
+    
+}
+button{
+    background-color: rgb(39, 39, 177);
+    color: white;
+    border: 3px solid black;
+    border-radius: 25px;
+    padding: 15px;
+    width: 140px;
+    text-align: center;
+    position: relative;
+    bottom: 115px;
+    right: 300px;
+    font-size: 25px;
+} 
+nav ul li a{
+    color: white;
+} 
+footer{
+    text-align: center;
+    margin-top: 55px;
+    font-size: 33px;
+    background-color: rgb(97, 97, 253);
+    padding-bottom: 10px;
+    padding-top: 10px;
+} 
+i{
+    color: black;
+    padding-right: 80px;
+}  
+.copy{
+    text-align: center;
+    position: relative;
+    right: 35px;
+}
+.picnic1 img{
+    width: 900px;   
+}
+.picnic1 p{
+    font-size: 21px;
+    background-color: white;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: brown;
+    font-family: 'Montserrat', sans-serif;
+}
+.picnic2 img{
+    width: 900px;
+}
+.picnic2 p{
+    font-size: 21px;
+    background-color: white;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: brown;
+    font-family: 'Montserrat', sans-serif;
+}
+.picnic3 img{
+    width: 900px;
+}
+.picnic3 p{
+    font-size: 21px;
+    background-color: white;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: brown;
+    font-family: 'Montserrat', sans-serif;
+}
+.picnic4 img{
+    width: 900px;
+}
+.picnic4 p{
+    font-size: 21px;
+    background-color: white;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: brown;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
